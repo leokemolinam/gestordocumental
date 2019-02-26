@@ -4,3 +4,11 @@ Actualmente la sociedad de activos especiales, cuenta con 3 aplicativos para la 
 
 La solución planteada es unificar en una nueva versión de gestor documental (Ares) los documentos existentes en las versiones anteriores de forma transparente para el usuario final, mediante una interfaz disponible en la web y app Móvil, la autenticación se hará mediante la suite empresarial de Windows, los nuevos archivos serán cargados al servicio en la nube de Windows Azure.  
 
+
+
+Oscar Molina 20191099033
+
+Carlos Rodriguez 2019109940
+
+Ivan Pacacira 20191099036
+
