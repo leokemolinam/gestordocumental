@@ -6,6 +6,9 @@ La solución planteada es unificar en una nueva versión de gestor documental (A
 
 
 
+![alt text](https://github.com/leokemolinam/gestordocumental/blob/master/GestorDocumentalArquitectura.png)
+
+
 Oscar Molina 20191099033
 
 Carlos Rodriguez 2019109940
